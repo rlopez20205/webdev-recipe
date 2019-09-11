@@ -6,10 +6,20 @@ body {
 
 
 }
+img {
+    height: 300px;
+    width: 300px;
+
+
+
+
+
+}               
+
 hr {
     height: 2px;
     border: none;
-    background-color: whitesmoke;
+    background-color: red;
 }
 
 ul {
